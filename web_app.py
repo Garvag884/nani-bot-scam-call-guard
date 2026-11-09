@@ -208,6 +208,7 @@ header{display:flex;align-items:center;gap:10px;padding:8px 0 28px}
 .fill{position:absolute;inset:0 auto 0 0;width:0;background:var(--c,var(--mute));border-radius:999px;transition:width .5s cubic-bezier(.2,.8,.2,1),background .3s}
 .tick{position:absolute;top:0;bottom:0;width:2px;background:var(--panel)}
 .scale{display:flex;justify-content:space-between;color:var(--mute);font-size:13px}
+[hidden]{display:none!important}
 .alert{display:flex;gap:12px;align-items:flex-start;margin-top:16px;padding:14px 16px;border-radius:12px;background:var(--highbg);color:var(--high);font-weight:600;animation:pop .35s ease-out}
 @keyframes pop{from{transform:translateY(-6px);opacity:0}to{transform:none;opacity:1}}
 .alert audio{width:100%;margin-top:10px}
