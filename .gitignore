@@ -1,0 +1,7 @@
+   .env
+   caller_history.db
+   call_audit_report.json
+   call_audit_log.jsonl
+   warning.wav
+   __pycache__/
+   .DS_Store
