@@ -4,7 +4,7 @@ Real-time scam call detector for **Hindi + English** calls, built for the Gnani.
 
 It transcribes a call with **Gnani Vachana speech-to-text**, scores every sentence for known scam patterns, and speaks a Hindi warning (Gnani Timbre text-to-speech) the moment the call looks dangerous.
 
-**Live demo:** _add your Render link here_
+**Live demo:https://nani-bot-gb9x.onrender.com/
 
 ## How it works
 
